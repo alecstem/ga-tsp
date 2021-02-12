@@ -7,7 +7,7 @@
 </p>
 
 # Description
-TSP optimized with a genetic algorithm using OX1 crossbreeding, written in C++. Visualization done in terminal window. For now arbitrary node locations are generated on each run, but I'll add a way to add nodes manually with the mouse soon enough.
+TSP optimized with a genetic algorithm using OX1 crossbreeding, written in C++. Visualization done in terminal window. For now arbitrary node locations are generated on each run, but I'll implement adding nodes manually with the mouse soon enough.
 
 ### How does this work?
 | Process            | Implementation                                                                                                         |
