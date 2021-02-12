@@ -1,12 +1,9 @@
 # Genetic TSP
 
 <p align="center">
-  <img src="images/1.gif" width="500" height="300" >
-  <img src="images/2.png" width="500" height="300" >
-</p>
-
-<p align="center">
-  note: these are cropped
+  <img src="images/3.gif" width="500" height="300" >
+  <img src="images/4.gif" width="500" height="300" >
+  <img src="images/6.gif" width="500" height="300" >
 </p>
 
 # Description
